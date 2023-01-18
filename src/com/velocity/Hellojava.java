@@ -7,6 +7,7 @@ public class Hellojava {
 		System.out.println("hello java");
 		System.out.println("velocity");
 		System.out.println("software");
+		System.out.println("Aurangabad");
 
 	}
 
